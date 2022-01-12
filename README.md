@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Smokey
-- 👀 I’m interested in Linux and Creating Wallpapers
 - 🌱 I’m currently learning everyday, always teaching myself something new
 
 <!---
